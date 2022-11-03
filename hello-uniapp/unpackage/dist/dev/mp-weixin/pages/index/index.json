@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "帽子",
+  "usingComponents": {
+    "test": "/components/test",
+    "test-a": "/components/a",
+    "test-b": "/components/b",
+    "uni-calendar": "/components/uni-calendar/components/uni-calendar/uni-calendar"
+  }
+}
